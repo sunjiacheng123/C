@@ -1,0 +1,38 @@
+﻿生成启动时间为 2020/1/9 23:25:36。
+     1>项目“H:\bit\C\20190724\20190724\20190724.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VC2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "使用函数交换两个数.c" "使用函数写乘法表.c" "实现一个函数判断year是不是润年 .c" "求第n个斐波那契数.c" "源.c" "用函数判断一个数是不是素数.c" "用函数对数组实现几个功能.c" "编写一个函数实现n^k.c" "编写一个函数将参数字符串中的字符反向排列.c" "输入一个非负整数，返回组成它的数字之和.c" "递归和非递归分别实现strlen.c" "递归和非递归分别实现求n的阶乘 .c" "递归方式实现打印一个整数的每一位 .c"
+         递归方式实现打印一个整数的每一位 .c
+         递归和非递归分别实现求n的阶乘 .c
+         递归和非递归分别实现strlen.c
+         输入一个非负整数，返回组成它的数字之和.c
+         编写一个函数将参数字符串中的字符反向排列.c
+         编写一个函数实现n^k.c
+         用函数对数组实现几个功能.c
+         用函数判断一个数是不是素数.c
+         源.c
+         求第n个斐波那契数.c
+         实现一个函数判断year是不是润年 .c
+         使用函数写乘法表.c
+         使用函数交换两个数.c
+         正在生成代码...
+       Link:
+         F:\VC2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\bit\C\20190724\Debug\20190724.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\bit\C\20190724\Debug\20190724.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\bit\C\20190724\Debug\20190724.lib" /MACHINE:X86 "Debug\使用函数交换两个数.obj"
+         "Debug\使用函数写乘法表.obj"
+         "Debug\实现一个函数判断year是不是润年 .obj"
+         "Debug\求第n个斐波那契数.obj"
+         "Debug\源.obj"
+         "Debug\用函数判断一个数是不是素数.obj"
+         "Debug\用函数对数组实现几个功能.obj"
+         "Debug\编写一个函数实现n^k.obj"
+         "Debug\编写一个函数将参数字符串中的字符反向排列.obj"
+         "Debug\输入一个非负整数，返回组成它的数字之和.obj"
+         "Debug\递归和非递归分别实现strlen.obj"
+         "Debug\递归和非递归分别实现求n的阶乘 .obj"
+         "Debug\递归方式实现打印一个整数的每一位 .obj"
+         20190724.vcxproj -> H:\bit\C\20190724\Debug\20190724.exe
+     1>已完成生成项目“H:\bit\C\20190724\20190724\20190724.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.81
